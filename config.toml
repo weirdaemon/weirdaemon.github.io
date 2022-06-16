@@ -2,3 +2,12 @@ baseURL = 'https://weirdaemon.github.io'
 languageCode = 'en-uk'
 title = 'private void'
 theme = "terminal"
+[params]
+    author = 'weirdaemon'
+    description = "(Can't get no worse)"
+    Logo.logoText = 'private void'
+[menu]
+[[menu.main]]
+  identifier = 'about'
+  name = 'about'
+  url = '/about/'
