@@ -10,7 +10,7 @@ description = "_(Can't get no worse)_"
 showFullContent = false
 readingTime = false
 hideComments = false
-draft = false
+draft = true
 +++
 
 >Bruno had rollmop herrings as a starter. 'Now', he thought, 'anything is possible.' He had hardly done so when he realised that he was wrong. [...] Rollmops were clearly not the solution, but then again, had he chosen sea bass with fennel it would have been no different.
